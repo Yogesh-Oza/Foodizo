@@ -1,4 +1,4 @@
-# Zosh Food
+# Foodizo
 
 1. **User:**
     - ID (Auto-generated)
